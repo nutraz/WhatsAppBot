@@ -63,5 +63,4 @@ Subscribe to WhatsApp events (messages). When a user messages your business numb
   <img src="images/final/a-results-graphic-showcasing-key-performance-metri(4).jpeg" alt="Results" width="260" />
 </p>
 
-## Repo
-This folder is a standalone git repo. Initialize and push it (see below).
+
