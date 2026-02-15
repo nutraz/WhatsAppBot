@@ -1,0 +1,18 @@
+{
+  "name": "whatsapp-ai-bot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI WhatsApp bot (Meta Cloud API) for small businesses: webhook + auto-replies powered by OpenAI.",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "lint": "node scripts/lint-env.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
